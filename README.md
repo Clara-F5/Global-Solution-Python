@@ -1,6 +1,7 @@
 # Global-Solution-Python
 
-## Turma - 1TDSPA
+## Turma 
+- 1TDSPA
 
 ## Alunos
 - Clara de Fonte Almeida - RM554321
